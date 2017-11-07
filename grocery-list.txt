@@ -1,8 +1,6 @@
 Grocery list
 
 - avocados
-- bread
-- crackers
 - soup
 - turkey
 - milk
