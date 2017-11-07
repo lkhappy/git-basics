@@ -5,3 +5,5 @@ Grocery list
 - crackers
 - soup
 - turkey
+- milk
+- yogurt
